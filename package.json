@@ -1,0 +1,19 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "description": "First build of a node app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GalacticJack/FirstElectronApp.git"
+  },
+  "author": "Jackson Burton <jdburton0@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GalacticJack/FirstElectronApp/issues"
+  },
+  "homepage": "https://github.com/GalacticJack/FirstElectronApp#readme"
+}

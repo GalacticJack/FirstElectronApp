@@ -171,3 +171,6 @@ ts-gen
 # Used to accelerate CI builds
 .depshash
 .depshash-target
+
+#sounds file
+/sounds/
